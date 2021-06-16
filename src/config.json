@@ -19,7 +19,7 @@
   "repositoryStared" : true,
   "repositorySource" : true,
   "repositoryForked" : true,
-  "localCache"	     : {
+  "local_cache"	     : {
 	  "enabled"	   : false,
 	  "file_path"	   : ""
   }
