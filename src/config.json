@@ -18,5 +18,9 @@
   "gistsStared"      : true,
   "repositoryStared" : true,
   "repositorySource" : true,
-  "repositoryForked" : true
+  "repositoryForked" : true,
+  "localCache"	     : {
+	  "enabled"	   : false,
+	  "file_path"	   : ""
+  }
 }
