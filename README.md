@@ -75,4 +75,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 [Checkout CHANGELOG.md](/CHANGELOG.md)
 
-This is a fork of the official [repo](https://github.com/varunsridharan/github-gitea-mirror)
+This is a fork of the [original repo](https://github.com/varunsridharan/github-gitea-mirror)
